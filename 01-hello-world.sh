@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello Lohan! how are you."
+echo "Hello LohanU! how are you."
+echo "practice devops"
