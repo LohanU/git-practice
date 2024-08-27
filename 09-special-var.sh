@@ -9,3 +9,5 @@ echo "no.of variables passed : $#"
  echo "present working directory : $PWD"
 
  echo "Home directory of current user : $HOME"
+
+ echo "PID od the script exection now : $$ "
