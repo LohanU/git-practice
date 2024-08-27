@@ -2,7 +2,7 @@
 
 x=$1
 
-if[$x -gt 20]
+if [ $x -gt 20]
 then 
     echo "given number $x is greater than 20"
 else
